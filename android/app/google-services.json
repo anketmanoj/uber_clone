@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "881002486271",
+    "firebase_url": "https://transdelivery-a097f-default-rtdb.firebaseio.com",
+    "project_id": "transdelivery-a097f",
+    "storage_bucket": "transdelivery-a097f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881002486271:android:9c5e1429a05eaa326c6fca",
+        "android_client_info": {
+          "package_name": "com.anket.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881002486271-3kedfdg3um4d037ncpb5mhsvsusg7ig7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALciJRxGgFoCw2-jxjdlwxj8k74p-kyuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881002486271-3kedfdg3um4d037ncpb5mhsvsusg7ig7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

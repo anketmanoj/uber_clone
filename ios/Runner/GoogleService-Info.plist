@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>881002486271-1mmh0f28sm2codmldem6ovsvk91v7e73.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.881002486271-1mmh0f28sm2codmldem6ovsvk91v7e73</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJ2EeV9V_J1DiiKvfS_ezNgCHE7f0-78U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881002486271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.anket.riderApp</string>
+	<key>PROJECT_ID</key>
+	<string>transdelivery-a097f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>transdelivery-a097f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881002486271:ios:8b7f5c01087a9fe86c6fca</string>
+	<key>DATABASE_URL</key>
+	<string>https://transdelivery-a097f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
